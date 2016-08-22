@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sevenlohwio">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/sevenlohwio.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/src/sevenlohwio-src.jar!/" />
+    </SOURCES>
+  </library>
+</component>

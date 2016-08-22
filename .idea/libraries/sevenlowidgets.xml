@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sevenlowidgets">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/sevenlowidgets.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/src/sevenlowidgets-src.jar!/" />
+    </SOURCES>
+  </library>
+</component>
